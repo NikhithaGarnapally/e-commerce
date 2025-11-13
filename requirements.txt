@@ -1,0 +1,9 @@
+pip install scikit-learn==1.5.0 --user
+pip install flask==3.0.3 --user
+pip install matplotlib==3.9.0 --user
+pip install pandas==2.2.2 --user
+pip install numpy==1.26.4 --user
+pip install seaborn==0.13.2 --user
+pip install xgboost==2.1.1 --user
+
+Python 3.12.0
